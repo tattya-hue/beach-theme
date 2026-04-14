@@ -1,0 +1,26 @@
+{
+  "name": "beach-theme",
+  "displayName": "Beach Light",
+  "description": "A beach-inspired color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Beach Light",
+        "uiTheme": "vs",
+        "path": "./themes/Beach Light-color-theme.json"
+      },
+      {
+        "label": "Beach Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Beach Dark-color-theme.json"
+      }
+    ]
+  }
+}
