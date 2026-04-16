@@ -1,8 +1,8 @@
-# Beach Light
+# Beach Theme for visual Studio Code
 
-Beach Light は、夏の海辺をモチーフにした VS Code 用のライト/ダークテーマです。
+Beach Theme is a light/dark theme for VS Code with a summer beach theme.
 
-- 左側: ヤシの木をイメージしたグリーン
-- エディタ中央: 砂浜をイメージしたベージュ
-- 上部: すっきりした空のライトブルー
-- 下部ターミナル: 浅瀬の透明感を意識したシーグリーン
+- Left side: Green, inspired by palm trees
+- Editor: Beige, inspired by a sandy beach
+- Top: Light blue, reminiscent of a clear sky
+- Terminal: Sea green, reflecting the transparency of shallow waters
