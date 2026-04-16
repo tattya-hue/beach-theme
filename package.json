@@ -1,8 +1,13 @@
 {
   "name": "beach-theme",
-  "displayName": "Beach Light",
+  "displayName": "Beach Theme",
   "description": "A beach-inspired color theme.",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/tattya-hue/beach-theme.git"
+	},
   "engines": {
     "vscode": "^1.115.0"
   },
